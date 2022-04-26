@@ -10,3 +10,4 @@
   - [ ] On mobile working status will be added.
   - [ ] Is there a command line?
   - [ ] Is there a sudo command line?
+  - [ ] Is free?
